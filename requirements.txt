@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+gymnasium
+deap
+pydot
+graphviz
+tensorflow
+scikit-learn
+keras
+cellpylib
+pyseagull
+pygame
